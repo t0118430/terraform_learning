@@ -1,6 +1,3 @@
-# terraform_learning
-terraform learning
-
 AMI - amazon machine images
 EC2 - elastic compute cloud
 
